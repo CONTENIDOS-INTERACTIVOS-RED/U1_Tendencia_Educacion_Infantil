@@ -17,13 +17,21 @@
 
 .bg-color
   &-1
-    background-color: #EAF8FD
+    background-color: #EDF3FC
   &-2
-    background-color: #FFFBE8
+    background-color: #FCF9E5
   &-3
-    background-color: #F0E9F6
+    background-color: #EBFCFE
   &-4
-    background-color: #EAF8FD
+    background-color: #F6ECAA
+  &-5
+    background-color: #F3F3F3
+  &-6
+    background-color: #FFF4C0
+  &-7
+    background-color: #F0E9F6
+  &-8
+    background-color: #FDFBED !important
   &-info
     background-color: #E8EEFD
   &-sintesis
@@ -41,7 +49,7 @@
 
 // Full Width Background
 .bg-full-width
-  background-size: cover
+  background-size: contain
   background-repeat: no-repeat
   background-position: bottom
   margin-inline: -3.3rem
@@ -54,10 +62,10 @@
     background-image: url("../assets/bg/bg1.png") !important
     background-position: top
   &-2
-    // background-image: url("../assets/bg/bg2.png") !important
-    background-position: bottom
+    background-image: url("../assets/bg/bg2.svg") !important
+    background-position: top
   &-slider
-    background-image: url("../assets/bg/bg-slider.png") !important
+    background-image: url("../assets/bg/bg-slider.svg") !important
     background-position: bottom
 
 // Variables
@@ -97,15 +105,15 @@ $custom-card-img-height: 322px
 
 
 .acordion__header
-  background-color: lighten($color-acento-contenido, 25%) !important
+  background-color: lighten($color-acento-contenido, 55%) !important
 
 .acordion__header--active
   background-color: $color-acento-contenido !important
   h4, i
-    color: #000 !important
+    color: #fff !important
 
 .acordion__contenido
-  background-color: lighten($color-acento-contenido, 27%) !important
+  background-color: lighten($color-acento-contenido, 57%) !important
 
 
 .anexo__texto

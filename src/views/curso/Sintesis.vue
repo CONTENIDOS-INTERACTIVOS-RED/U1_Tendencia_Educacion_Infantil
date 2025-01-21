@@ -2,7 +2,7 @@
   .curso-main-container.creditos-vista
     BannerInterno(subTitulo="SÍNTESIS")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      p(data-aos="fade-up").mb-5 La Unidad 3: Bioética y sostenibilidad en el desarrollo económico global, establece los principios esenciales para comprender cómo los valores éticos y bioéticos pueden orientar el desarrollo económico hacia la sostenibilidad. Esta unidad proporciona una perspectiva integral sobre la relación entre la economía, el medio ambiente y los derechos humanos, destacando la importancia de prácticas responsables en contextos globalizados. Este enfoque asegura que los estudiantes adquieran una comprensión sólida de los desafíos éticos actuales y las estrategias sostenibles, permitiéndoles aplicar estas herramientas de manera efectiva en su formación profesional y en la vida cotidiana.
+      p(data-aos="fade-up").mb-5 La Unidad 1, Sistema de educación Inicial del Ministerio de Educación Nacional, aborda las políticas y estrategias esenciales para el desarrollo integral en la primera infancia en Colombia, establecidas por el Ministerio de Educación Nacional (MEN) y el Instituto Colombiano de Bienestar Familiar (ICBF). Esta unidad proporciona un panorama integral sobre las modalidades de atención, los principios de atención integral y los sistemas de seguimiento que garantizan calidad e inclusión educativa. Al comprender estos elementos, los estudiantes podrán reflexionar sobre el impacto de las políticas públicas y su implementación en la construcción de un sistema educativo equitativo y transformador.
 
       .row.justify-content-center
         .col-lg-12.mb-5
