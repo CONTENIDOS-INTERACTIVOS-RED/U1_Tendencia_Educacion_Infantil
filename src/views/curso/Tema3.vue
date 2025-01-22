@@ -243,7 +243,8 @@ export default {
   data() {
     return {
       cuestionario: {
-        tema: 'Sistema de Educación Inicial del Ministerio de Educación Nacional',
+        tema:
+          'Sistema de Educación Inicial del Ministerio de Educación Nacional',
         titulo: 'Ponte a prueba',
         introduccion:
           'Demuestra lo que aprendiste en esta unidad y pon a prueba tus conocimientos.',
@@ -251,18 +252,21 @@ export default {
         preguntas: [
           {
             id: 1,
-            texto: '¿Cuál es el objetivo principal del Sistema de Educación Inicial en Colombia?',
+            texto:
+              '¿Cuál es el objetivo principal del Sistema de Educación Inicial en Colombia?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Brindar educación formal desde los primeros grados escolares',
+                texto:
+                  'Brindar educación formal desde los primeros grados escolares',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Garantizar una atención integral de calidad para la primera infancia',
+                texto:
+                  'Garantizar una atención integral de calidad para la primera infancia',
                 esCorrecta: true,
               },
               {
@@ -281,7 +285,8 @@ export default {
           },
           {
             id: 2,
-            texto: '¿Qué modalidad de atención en educación inicial está dirigida principalmente a la educación dentro del hogar?',
+            texto:
+              '¿Qué modalidad de atención en educación inicial está dirigida principalmente a la educación dentro del hogar?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
@@ -311,7 +316,8 @@ export default {
           },
           {
             id: 3,
-            texto: '¿Cuál de los siguientes es un principio fundamental de la atención integral en la primera infancia?',
+            texto:
+              '¿Cuál de los siguientes es un principio fundamental de la atención integral en la primera infancia?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
@@ -341,7 +347,8 @@ export default {
           },
           {
             id: 4,
-            texto: '¿Qué entidad es responsable de implementar las políticas de educación inicial en Colombia, junto con el Ministerio de Educación Nacional?',
+            texto:
+              '¿Qué entidad es responsable de implementar las políticas de educación inicial en Colombia, junto con el Ministerio de Educación Nacional?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
@@ -371,7 +378,8 @@ export default {
           },
           {
             id: 5,
-            texto: '¿Cuál es un requisito fundamental para las instituciones que brindan educación inicial en Colombia según el MEN?',
+            texto:
+              '¿Cuál es un requisito fundamental para las instituciones que brindan educación inicial en Colombia según el MEN?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
