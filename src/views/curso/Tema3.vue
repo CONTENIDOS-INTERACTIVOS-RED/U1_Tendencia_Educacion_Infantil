@@ -10,7 +10,7 @@
             img(src='@/assets/curso/tema3/1.png', alt='')
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") Es hora de iniciar el estudio de las modalidades y condiciones del sistema de educación inicial. Este tema le proporcionará una visión clara de las diferentes formas en las que se organiza la educación para la primera infancia en Colombia, incluyendo las modalidades familiar, institucional y comunitaria.
+            p.mb-0(data-aos="fade-up") Ahora que se ha explorado el rol de las entidades territoriales en el seguimiento y monitoreo, es momento de adentrarse en el estudio de las actividades rectoras. Este tema le permitirá comprender cómo se estructuran y aplican las actividades pedagógicas claves que promueven el desarrollo integral de los niños en la educación inicial. ¡Continúe con su aprendizaje y descubra cómo estas actividades influyen directamente en la calidad educativa!
 
     #t_3_1.titulo-segundo(data-aos="flip-up")
       h2 #[span 3.1] Principios y fundamentos pedagógicos de las actividades rectoras
@@ -174,7 +174,7 @@
             h2.mb-4(data-aos="flip-up") Estrategias para integrar actividades rectoras en el currículo 
             p.mb-4(data-aos="fade-right") La integración de actividades rectoras en el currículo educativo es fundamental para promover un desarrollo integral en la infancia. En el PDF <b>Estrategias para integrar actividades rectoras en el currículo</b>, se presentan enfoques prácticos para incorporar el juego, el arte, la literatura y la exploración del medio en el proceso de enseñanza. Estas estrategias no solo enriquecen el aprendizaje, sino que también fomentan el desarrollo emocional, social y cognitivo de los niños, creando experiencias educativas significativas y transformadoras.
     
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexos_4.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

@@ -143,7 +143,7 @@
               h3.mb-1 Rol de los agentes educativos y entidades territoriales 
               p En el PDF <b>Rol de los agentes educativos y entidades territoriales</b>, se analizan las responsabilidades de estos actores, desde la atención integral de los niños hasta la adaptación de políticas nacionales a contextos locales, destacando la importancia de un enfoque colaborativo para garantizar una educación inclusiva y de calidad.
             .col-sm-auto
-              a.boton.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.texto-blanco(:href="obtenerLink('/downloads/Anexos_2.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-arrow-right
     
@@ -218,7 +218,7 @@
             h2.mb-4(data-aos="flip-up") Rol de las entidades territoriales en el seguimiento y monitoreo 
             p.mb-4(data-aos="fade-right") En el PDF <b>Rol de las entidades territoriales en el seguimiento y monitoreo</b>, se exploran las funciones clave de estas instancias, desde la supervisión de la calidad educativa y la capacitación docente, hasta la recopilación de datos y la promoción de la equidad en el acceso a la educación inicial. Este análisis permite comprender cómo la descentralización contribuye a fortalecer el desarrollo infantil en diversos contextos.
     
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexos_3.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

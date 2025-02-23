@@ -166,7 +166,7 @@
               h3.mb-1 Requisitos y estándares de calidad
               p En el PDF <b>Requisitos y estándares de calidad</b>, se analizan los lineamientos establecidos por el Ministerio de Educación Nacional, que incluyen aspectos clave como infraestructura adecuada, formación continua del personal educativo, un currículo flexible y un sistema de evaluación constante. Este contenido busca reflexionar sobre cómo estos estándares garantizan una educación inclusiva, equitativa y de calidad.
             .col-sm-auto
-              a.boton.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.texto-blanco(:href="obtenerLink('/downloads/Anexos_1.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-arrow-right
 
