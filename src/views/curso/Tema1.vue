@@ -299,6 +299,14 @@
               a(href="https://www.mineducacion.gov.co/ " target="_blank" rel="noopener noreferrer") Ministerio de Educación Nacional de Colombia. (n.d.). Desarrollo infantil y competencias en la Primera infancia.  
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.mineducacion.gov.co/1621/articles-340021_recurso_1.pdf" target="_blank" rel="noopener noreferrer") Ministerio de Educación Nacional de Colombia. (2006). Estándares básicos de competencias: Lenguaje, Matemáticas, Ciencias y Ciudadanas. Bogotá: MEN.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="http://www.colombiaaprende.edu.co/contenidos/coleccion/derechos-basicos-de-aprendizaje" target="_blank" rel="noopener noreferrer") Ministerio de Educación Nacional de Colombia. (2016). Derechos Básicos de Aprendizaje - DBA. Bogotá: MEN.
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://www.labster.com/" target="_blank" rel="noopener noreferrer") Labster (educación).
 
 
